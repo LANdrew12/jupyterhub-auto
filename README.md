@@ -3,7 +3,7 @@
 Automatic Lab JupyterHub
 ========================
 
-This bash script helps someone install a JupyterHub instance with RAM and CPU resorce managment. Once can also use this script to auto install conda, as well as customize their JupyterHub login page.
+This bash script helps someone install a JupyterHub instance with RAM and CPU resorce managment. One can also use this script to auto install conda, as well as customize their JupyterHub login page.
 
 
 Motivation & Features
@@ -20,9 +20,9 @@ Motivation & Features
 
 BASIC Installation
 ------------------
-
-- cd ./repo/path/
-- bash jupyter_auto.sh
+After downloading the repo open terminal and follow these steps:
+- ```cd ./repo/path/```
+- ```bash jupyter_auto.sh```
 
 - Is Conda Installed? n
 - Anaconda Year (2021) 2021
